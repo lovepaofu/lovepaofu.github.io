@@ -3,7 +3,10 @@
   <entry>
     <title><![CDATA[my new post]]></title>
     <url>%2F2018%2F03%2F26%2Fmy-new-post%2F</url>
-    <content type="text"><![CDATA[文字测试这是一段文字测试 代码$ ls -l import time print time.time() 图片测试]]></content>
+    <content type="text"><![CDATA[文字测试这是一段文字测试 代码$ ls -l 图片测试]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
       <tags>
         <tag>测试</tag>
       </tags>
